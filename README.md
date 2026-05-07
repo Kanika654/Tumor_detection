@@ -57,6 +57,3 @@ To improve tumor detection accuracy by combining:
 - Conditional GAN-based augmentation
 
 ---
-
-##  Author
-Kanika Rathore
